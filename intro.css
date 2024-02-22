@@ -1,0 +1,11 @@
+body{
+    background-image: url("https://media.istockphoto.com/id/494094990/vector/figures-3d-seamless-wallpaper-pattern.jpg?s=612x612&w=0&k=20&c=q8qUEG3rkGMDR0kZ4kRf577W6V3iqlvTtPvyvzXb23g="); 
+    background-repeat: no-repeat; 
+    background-size: 100%;
+
+}
+button{
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+}
